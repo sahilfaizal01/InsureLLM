@@ -1,2 +1,2 @@
 # InsureLLM
-A RAG solution for an Insurance Industry Application
+LLM-RAG solutions for Financial Services
