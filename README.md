@@ -15,8 +15,9 @@ Evaluate Chunking Strategy is the key
 * Increase/Decrease overlap
 
 ## 1. Simple RAG
-
-Here, I was able to resolve the retrieval error by changing the number of retrieved chunks to 25 compared to the default.
+This is a naive RAG implementation to help customers understand the background of employees and the products offered by an Insurance Company. <br> Some improvements:
+* **Error:** Unable to retrieve info present in the database 
+* **Solution:** Here, I was able to resolve the retrieval error by changing the number of retrieved chunks to 25 compared to the default.
 ### Output using Default Config
 ![image](https://github.com/user-attachments/assets/83fe16f5-665e-4436-a994-e20142f4a0b7)
 
