@@ -1,0 +1,10 @@
+langchain
+langchain-community
+streamlit
+python-dotenv
+openai
+semanticscholar
+chromadb
+sentence-transformers
+langchain_openai
+transformers
