@@ -26,15 +26,15 @@ The system is built on the following technologies:
 
 ## Installation
 # Clone the repository
-git clone https://github.com/sahilfaizal01/RagHub.git
-cd RAG_Research_Assistant
+* git clone https://github.com/sahilfaizal01/RagHub.git
+* cd RAG_Research_Assistant
 
 # Create a virtual environment
-python -m venv myenv
-source myenv/bin/activate  # On Windows: myenv\Scripts\activate
+* python -m venv myenv
+* source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 
 ## Usage
