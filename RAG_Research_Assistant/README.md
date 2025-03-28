@@ -25,15 +25,15 @@ The system is built on the following technologies:
 - **Data Source**: ArXiv API
 
 ## Installation
-### Clone the repository
+### 1. Clone the repository
 * git clone https://github.com/sahilfaizal01/RagHub.git
 * cd RAG_Research_Assistant
 
-### Create a virtual environment
+### 2. Create a virtual environment
 * python -m venv myenv
 * source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 
-### Install dependencies
+### 3. Install dependencies
 * pip install -r requirements.txt
 
 
