@@ -53,22 +53,6 @@ The system includes a built-in evaluation framework using RAGAS metrics:
 - **Relevancy**: Evaluates if responses address the query
 - **Context Precision/Recall**: Assesses the quality of retrieved contexts
 
-## Project Structure
-ai-research-assistant/
-├── app.py                  # Main Streamlit application
-├── retriever/              # Document retrieval components
-│   ├── arxiv_retriever.py  # ArXiv API integration
-│   └── vector_store.py     # FAISS vector store setup
-├── llm/                    # LLM integration
-│   └── cohere_llm.py       # Cohere API wrapper
-├── evaluation/             # Evaluation framework
-│   └── metrics.py          # RAGAS metrics implementation
-├── utils/                  # Utility functions
-│   ├── document_processor.py  # Document processing utilities
-│   └── conversation.py     # Conversation management
-└── requirements.txt        # Project dependencies
-
-
 ## Requirements
 
 - Python 3.8+
