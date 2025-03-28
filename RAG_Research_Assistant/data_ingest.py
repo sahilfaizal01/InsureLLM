@@ -29,7 +29,7 @@ def manage_keywords():
             with col2:
                 if st.button(f"❌", key=f"remove_{keyword}"):
                     st.session_state.keywords.remove(keyword)
-                    st.experimental_rerun()
+                    st.rerun()
 
 def fetch_research_papers(keywords):
     """Fetch research papers from ArXiv based on keywords."""
