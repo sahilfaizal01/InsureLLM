@@ -79,6 +79,9 @@ The system includes a built-in evaluation framework using RAGAS metrics:
 - [RAGAS](https://github.com/explodinggradients/ragas) for evaluation metrics
 
 
+## Deployment Diagram
+![image](https://github.com/user-attachments/assets/cfb5fa22-2aa4-4643-8a6e-9d2e83494358)
+
 
 
 
