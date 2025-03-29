@@ -2,6 +2,8 @@
 
 An intelligent research assistant that helps users explore academic papers through natural language conversations. This system leverages Retrieval-Augmented Generation (RAG) to provide accurate, citation-backed responses to research queries.
 
+![image](https://github.com/user-attachments/assets/ef99148f-a4bd-43b7-9232-d3a894543b33)
+
 ## Overview
 
 The AI Research Assistant is designed to streamline the academic research process by allowing users to interact with research papers through a conversational interface. The system retrieves relevant papers based on keywords, processes them, and enables users to ask questions about the content with responses grounded in the source material.
